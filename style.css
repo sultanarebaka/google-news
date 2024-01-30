@@ -68,3 +68,62 @@ padding-top: -30px;
   
 }
 
+
+
+
+
+
+
+
+
+
+
+
+.container-part2 {
+  display: flex;
+  flex-wrap: wrap; /* Allows content blocks to wrap if space is limited */
+  gap: 1em; /* Spacing between content blocks */
+}
+
+.image-container {
+  flex: 1; /* Stretches image container to full width */
+  position: relative;
+}
+
+img {
+  object-fit: cover; /* Resize image to fit container while maintaining aspect ratio */
+  width: 100%;
+}
+
+.image-heading {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7); /* Black overlay with some transparency */
+  color: white;
+  padding: 0.5em;
+}
+
+.content-block {
+  flex: 1; /* Stretches content block to full width */
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+h4, p {
+  margin: 0; /* Remove default margins for cleaner spacing */
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end; /* Aligns details below paragraph */
+  font-size: 0.8em;
+}
+
+span {
+  margin-right: 0.5em; /* Spacing between details elements */
+}
