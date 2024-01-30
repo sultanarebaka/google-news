@@ -25,3 +25,18 @@ body{
   padding-left: 10px;
   padding-top: 15px;
 }
+
+.container{
+  margin-left: .5%;
+}
+
+
+
+
+.whiteboard {
+  background-color: #fff; /* White background */
+  
+  border-radius: 12px 12px 0 0; /* Rounded corners on top left and top right */
+  padding: 20px; /* Padding for content */
+  
+}
