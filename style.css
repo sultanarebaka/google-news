@@ -141,7 +141,8 @@ display: flex;
   display: flex;
   font-size: .7rem;
   font-weight: 600;
-  justify-content: ;
+  justify-content: flex-end;
+  align-items: center;
   white-space:nowrap;
   color: black;
   
