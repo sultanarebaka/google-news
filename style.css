@@ -45,7 +45,7 @@ height:100%;
 .heading-wrapper {
   display: flex;
   padding-top: 4px;
-  margin-bottom: 0px;
+  
   border-bottom: 2.8px solid #DDDDDD;
 }
 
@@ -58,7 +58,7 @@ height:100%;
   font-family: Arial, Helvetica, sans-serif ;
   font-size: 1.7rem;
   color:#3559E0;
-  padding-bottom: 0px;
+  
 }
 
 .heading-wrapper
@@ -90,35 +90,21 @@ padding-top: .7rem;
 
 
 .image-heading1{
-  
-display: 0;
-  bottom: 0;
-  left: 0;
+  display: block;
   font-size: .7rem;
   font-weight: 600;
   font-family: Arial, Helvetica, sans-serif ;
   white-space:nowrap;
   color: black;
-  padding: 0;
-}
-
-
-
- .enemy{
-  padding-top: 1.6rem;
-  padding-right: 90px;
-  text-align: left;
-}
-
-.details {
-  display: flex;
   
-   /* Aligns details below paragraph */
-  font-size: 0.8em;
 }
+
+
+
+ 
 
 span {
-  margin-right: 0.5em; /* Spacing between details elements */
+  margin-right: 0; /* Spacing between details elements */
 }
 
 .img-d{
@@ -126,6 +112,6 @@ display: flex;
 
 }
 .img-ap{
-  display: flex;
-  padding-right: 3px;
+  
+  padding-right: 0px;
 }
