@@ -90,16 +90,19 @@ padding-top: .7rem;
 
 
 .image-heading1{
+  font-family: sans-serif;
   display: block;
   font-size: .7rem;
   font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif ;
+  
   white-space:nowrap;
   color: black;
   
 }
 
-
+.container-en{
+  padding-top: 1rem;
+}
 
  
 
