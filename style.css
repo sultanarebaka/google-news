@@ -94,6 +94,7 @@ padding-top: .7rem;
 
 
 .image-heading1{
+  
 display: 0;
   bottom: 0;
   left: 0;
@@ -108,20 +109,20 @@ display: 0;
 .content-block {
   flex: 1; /* Stretches content block to full width */
   padding: 1em;
+  text-align: left;
   
-  
-  display: flex;
-  flex-direction: column;
+
 }
 
-h4, p {
-  margin: 0; /* Remove default margins for cleaner spacing */
+ .enemy{
+  
+  text-align: left;
 }
 
 .details {
   display: flex;
   
-  align-items: flex-end; /* Aligns details below paragraph */
+   /* Aligns details below paragraph */
   font-size: 0.8em;
 }
 
