@@ -102,8 +102,15 @@ padding-top: .7rem;
 
 .container-en{
   padding-top: 1rem;
+  font-size: 1.4rem;
+  font-family: sans-serif;
+  word-spacing: 1px;
 }
 
+.details{
+  padding-top: .7rem;
+  word-spacing: 2px;
+}
  
 
 span {
@@ -115,6 +122,53 @@ display: flex;
 
 }
 .img-ap{
+  
+  padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.image-heading2{
+  font-family: sans-serif;
+  display: flex;
+  font-size: .7rem;
+  font-weight: 600;
+  justify-content: ;
+  white-space:nowrap;
+  color: black;
+  
+}
+
+.container-bi{
+  padding-top: 1rem;
+  font-size: 1.4rem;
+  font-family: sans-serif;
+  word-spacing: 1px;
+}
+
+.information{
+  padding-top: .7rem;
+  word-spacing: 2px;
+}
+ 
+.information >
+span {
+  margin-right: 0; /* Spacing between details elements */
+}
+
+.img-c{
+display: flex;
+
+}
+.img-cnn{
   
   padding-right: 0px;
 }
