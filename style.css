@@ -80,11 +80,7 @@ padding-top: -30px;
 
 
 
-.container-part2 {
-  
-   /* Allows content blocks to wrap if space is limited */
-  gap: 0em; /* Spacing between content blocks */
-}
+
 
 
 .image-container{
@@ -106,16 +102,11 @@ display: 0;
   padding: 0;
 }
 
-.content-block {
-  flex: 1; /* Stretches content block to full width */
-  padding: 1em;
-  text-align: left;
-  
 
-}
 
  .enemy{
-  
+  padding-top: 1.6rem;
+  padding-right: 90px;
   text-align: left;
 }
 
