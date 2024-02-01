@@ -116,3 +116,8 @@ padding-top: .7rem;
 display: flex;
 background-color: transparent;
 }
+
+.enemy-container{
+  font-family: sans-serif;
+  padding-top: .8rem;
+}
