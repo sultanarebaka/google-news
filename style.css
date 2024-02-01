@@ -120,9 +120,17 @@ background-color: transparent;
 .enemy-container{
   font-family: sans-serif;
   padding-top: .8rem;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
-.head-3{
-  direction: rtl;
-  
+
+
+.img-ap{
+  padding-top: .2rem;
+}
+
+.hours{
+  padding-top: .7rem;
+  font-size: 0.8rem;
 }
