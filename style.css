@@ -1,39 +1,14 @@
-.whiteboard {
+
+.heading-image-container{
+display: flex;
+}
+
+div img {
+  
+  width: 200px; /* Adjust width as needed */
+  height: 150px; /* Adjust height as needed */
+}
+
+.h1{
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #fff;
-  border: 2px solid #ccc;
-  padding: 20px;
-}
-
-.image-container {
-  width: 45%;
-  margin-bottom: 20px;
-}
-
-.top-left {
-  order: 1;
-}
-
-.top-right {
-  order: 2;
-}
-
-.bottom-left {
-  order: 3;
-}
-
-.bottom-right {
-  order: 4;
-}
-
-.bottom-right img {
-  margin-bottom: 10px; /* Add some space between all images in the bottom-right section */
-}
-
-img {
-  width: 100%;
-  height: auto;
 }
