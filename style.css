@@ -82,14 +82,19 @@ padding-top: .7rem;
 }
 
 .img-cnn {
-  margin-left: 20px;
+  
   padding-top: .4rem;
   border-radius: none;
+  display: flex;
 }
 
 .cnn{
+  font-size: .8rem;
   display: flex;
+  padding-top: .3rem;
+  font-weight: 600;
+  
 }
 .bottom-image {
-  margin-top: 20px;
+  margin-top: 0px;
 }
