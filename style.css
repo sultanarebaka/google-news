@@ -82,14 +82,12 @@ padding-bottom: 1.4rem;
 
 .image-container{
 display: block;
-padding-top: .7rem;
+
+padding-top: .8rem;
 }
 
 
-.image-container {
-  display: flex;
-  align-items: flex-start;
-}
+
 
 .img-cnn {
   
@@ -119,7 +117,7 @@ background-color: transparent;
 
 .enemy-container{
   font-family: sans-serif;
-  padding-top: .8rem;
+ padding-top:11px;
   font-size: 1rem;
   font-weight: 500;
 }
@@ -131,6 +129,6 @@ background-color: transparent;
 }
 
 .hours{
-  padding-top: .7rem;
+  padding-top: .5rem;
   font-size: 0.8rem;
 }
