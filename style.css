@@ -108,9 +108,11 @@ background-color: transparent;
 
 .enemy-container{
   font-family: sans-serif;
- padding-top:11px;
-  font-size: 1rem;
+ padding-top:12px;
+  font-size: 1.3rem;
   font-weight: 500;
+  word-spacing: 1px;
+  line-height:1.2;
 }
 
 
@@ -120,8 +122,8 @@ background-color: transparent;
 }
 
 .information{
-  padding-top: .4rem;
-  font-size: 0.9rem;
+  padding-top: .5rem;
+  font-size: 13px;
 }
 
  .biden-container{
