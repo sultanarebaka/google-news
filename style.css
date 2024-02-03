@@ -131,4 +131,29 @@ background-color: transparent;
  }
 
 
+
+
+
+
+
+
+
+
+
+
+
  
+
+ .iche-container {
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+  align-items: center; /* Vertically align items if needed */
+  
+}
+
+.left-content {
+  flex: 1; /* Allow left content to occupy remaining space */
+  margin-right: 0px; /* Adjust spacing as desired */
+}
+
+
