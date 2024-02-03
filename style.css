@@ -50,7 +50,7 @@ height:100%;
   
   gap: 8px; /* Optional: Add space between elements */
 
-  border-bottom: 2.8px solid #DDDDDD;
+  
 }
 
 .h2 {
@@ -70,6 +70,7 @@ padding-bottom: 1.4rem;
 
 .web{
   display: flex;
+  
   
 }
 
