@@ -9,7 +9,7 @@ body{
 
 
 .date {
-  padding-top: 0.6rem;
+  padding-top: 5px;
   font-size: 17px;
   color:#282A3A;
   
@@ -56,7 +56,7 @@ height:100%;
 .h2 {
   font-family: sans-serif;
   font-size:1.6rem ;
-  padding-top: .4rem;
+  padding-top: 6px;
   
 }
 
@@ -64,8 +64,8 @@ height:100%;
 .blue-icon {
   color: blue;
   font-size: 28px; /* Adjust icon size as needed */
-  padding-top: .4rem;
-padding-bottom: 1.4rem;
+  padding-top: 6px;
+padding-bottom: 18px;
 }
 
 .web{
@@ -80,7 +80,7 @@ padding-bottom: 1.4rem;
 
 .image-container{
 display: block;
-padding-top: .9rem;
+padding-top: 16px;
 }
  
 
@@ -90,7 +90,7 @@ padding-top: .9rem;
 
 .img-cnn {
   
-  padding-top: .4rem;
+  padding-top: 6px;
   border-radius: none;
 }
 
@@ -119,16 +119,16 @@ background-color: transparent;
 
 
 .img-ap{
-  padding-top: .2rem;
+  padding-top: 4px;
 }
 
 .information{
-  padding-top: .5rem;
+  padding-top: 7px;
   font-size: 13px;
 }
 
  .biden-container{
-  padding-top: .3rem;
+  padding-top: 5px;
  }
 
 
