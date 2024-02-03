@@ -157,3 +157,246 @@ background-color: transparent;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pura{
+  display: flex;
+  
+  
+}
+
+
+
+
+
+.picture-container{
+display: block;
+padding-top: .9rem;
+}
+ 
+
+
+
+
+
+.img-cnn {
+  
+  padding-top: .4rem;
+  border-radius: none;
+}
+
+
+.bottom-image {
+  margin-top: 0px;
+}
+
+
+
+
+.png{
+display: flex;
+background-color: transparent;
+}
+
+.disso-container{
+  font-family: sans-serif;
+ padding-top:12px;
+  font-size: 1.3rem;
+  font-weight: 500;
+  word-spacing: 1px;
+  line-height:1.2;
+}
+
+
+
+.img-ap{
+  padding-top: .2rem;
+}
+
+.information{
+  padding-top: .5rem;
+  font-size: 13px;
+}
+
+ .biden-container{
+  padding-top: .3rem;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ .iche-container {
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+  align-items: center; /* Vertically align items if needed */
+  
+}
+
+.left-content {
+  flex: 1; /* Allow left content to occupy remaining space */
+  margin-right: 0px; /* Adjust spacing as desired */
+}
+
+
