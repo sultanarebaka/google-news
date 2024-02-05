@@ -4,27 +4,37 @@ body{
 
 }
 
+.two {
+  
+  margin-left:170px;
+  
+
+}
+
+
+
+
+
+
+
+
+
 
 .date {
-  align-items: center;
-  padding-top: 5px;
+  
+  
   font-size: 17px;
   color:#282A3A;
   
 }
-.h1{
+.two > h1{
   font-family: sans-serif;
   font-size: 2.1rem;
 }
-.two{
-  
-  left:30%;
-  font-family: sans-serif ;
-  
-}
+
 .container{
-  padding-left: 8px;
-  padding-top: 2rem;
+  margin-left:13%;
+  margin-right: 13%;
 }
 
 .whiteboard {
