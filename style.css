@@ -1,24 +1,12 @@
-
-  body{
+body{
   background-color: #F6F6F6;
-  align-items: center;
-  
-}
 
-
-
-
-.two{
-  
-  display: block;
-  align-items: right;
-  text-align: right;
 
 }
-
 
 
 .date {
+  align-items: center;
   padding-top: 5px;
   font-size: 17px;
   color:#282A3A;
@@ -29,14 +17,142 @@
   font-size: 2.1rem;
 }
 .two{
+  
+  left:30%;
   font-family: sans-serif ;
-  padding-left: 10px;
-  padding-top: 20px;
+  
 }
-
 .container{
-  align-items: center;
-  justify-content: center;
   padding-left: 8px;
   padding-top: 2rem;
+}
+
+.whiteboard {
+  background-color: #fff; /* White background */
+
+ align-items: center;
+  border-radius: 18px 18px 0 0; /* Rounded corners on top left and top right */
+  padding: 18px;
+
+  
+}
+.flex-container {
+  display: flex;
+  
+  gap: 8px; /* Optional: Add space between elements */
+  
+}
+.h2 {
+  font-family: sans-serif;
+  font-size:1.6rem ;
+  padding-top: 6px;
+  
+}
+.blue-icon {
+  color: blue;
+  font-size: 28px; /* Adjust icon size as needed */
+  padding-top: 6px;
+padding-bottom: 18px;
+}
+.web{
+  display: flex;
+  
+  
+}
+.image-container{
+display: block;
+padding-top: 16px;
+}
+ 
+.img-cnn {
+  
+  padding-top: 6px;
+  border-radius: none;
+}
+.bottom-image {
+  margin-top: 0px;
+}
+.png{
+display: flex;
+background-color: transparent;
+}
+.enemy-container{
+  font-family: sans-serif;
+ padding-top:12px;
+  font-size: 1.3rem;
+  font-weight: 500;
+  word-spacing: 1px;
+  line-height:1.2;
+}
+.img-ap{
+  padding-top: 4px;
+}
+.information{
+  padding-top: 7px;
+  font-size: 13px;
+}
+ .biden-container{
+  padding-top: 5px;
+ }
+ 
+ .iche-container {
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+   /* Vertically align items if needed */
+  
+}
+.left-content {
+  flex: 0; /* Allow left content to occupy remaining space */
+  margin-right: 0px; /* Adjust spacing as desired */
+}
+.pura{
+  display: flex;
+  
+  
+}
+.picture-container{
+display: block;
+padding-top: 12px;
+}
+ 
+.img-cnn {
+  
+  padding-top: 6px;
+  border-radius: none;
+}
+.bottom-image {
+  margin-top: 0px;
+}
+.png{
+display: flex;
+background-color: transparent;
+}
+.disso-container{
+  font-family: sans-serif;
+ padding-top:12px;
+  font-size: 1.3rem;
+  font-weight: 500;
+  word-spacing: 1px;
+  line-height:1.2;
+}
+.img-ap{
+  padding-top: .2rem;
+}
+.information{
+  padding-top: .5rem;
+  font-size: 13px;
+}
+ .biden-container{
+  padding-top: .3rem;
+ }
+ 
+ .iche-container {
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+  align-items: center; /* Vertically align items if needed */
+  
+}
+.left-content {
+  flex: 1; /* Allow left content to occupy remaining space */
+  margin-right: 0px; /* Adjust spacing as desired */
 }
