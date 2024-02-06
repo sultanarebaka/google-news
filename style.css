@@ -78,7 +78,7 @@ padding-left: 3px;
  
 .img-cnn {
   
-  padding-top: 0px;
+  padding-top: 6px;
   border-radius: none;
 }
 .bottom-image {
@@ -142,7 +142,7 @@ display: block;
 padding-top: 12px;
 }
  
-.img-cnn {
+.img-daily {
   
   padding-top: 6px;
   border-radius: none;
@@ -150,10 +150,7 @@ padding-top: 12px;
 .bottom-image {
   margin-top: 0px;
 }
-.png{
-display: flex;
-background-color: transparent;
-}
+
 .enemy-container{
   font-family: sans-serif;
  padding-top:12px;
@@ -162,14 +159,9 @@ background-color: transparent;
   word-spacing: 1px;
   line-height:1.2;
 }
-.katto-hj{
-  padding-top: 5px;
-}
-.information{
-  padding-top: .5rem;
-  font-size: 13px;
-}
- .biden-container{
+
+
+ .cash-container{
   padding-top: .3rem;
  }
  
