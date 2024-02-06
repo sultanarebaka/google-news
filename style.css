@@ -116,6 +116,20 @@ background-color: transparent;
   flex: 0; /* Allow left content to occupy remaining space */
   margin-right: 0px; /* Adjust spacing as desired */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .pura{
   display: flex;
   
@@ -123,6 +137,7 @@ background-color: transparent;
 }
 .picture-container{
 display: block;
+
 padding-top: 12px;
 }
  
@@ -146,8 +161,8 @@ background-color: transparent;
   word-spacing: 1px;
   line-height:1.2;
 }
-.img-ap{
-  padding-top: .2rem;
+.katto-hj{
+  padding-top: 5px;
 }
 .information{
   padding-top: .5rem;
