@@ -1,206 +1,256 @@
-
-@media only screen and (max-width:1920px){
-  body{
-  background-color: #F6F6F6;
+body{
+  font-family: Open, sans-serif;
+  background-color: #F5F7F8;
 }
+  #current-date {
+    font-weight: bold;  
+    text-align: center;  }
+  .too{
+    padding-top: 6px;
+    padding-bottom: 13px;
+    padding-left: 7px;
+  }
+  .to{
+    font-size: 23px;
+  }
+  .tu{
+    font-size: 15px;
+    color:#787A91;
+    font-weight: 530;
+  }
+  .whiteboard {
+    background-color: white;
+    width: 647px; /* Adjust width as needed */
+    height: 507px; /* Adjust height as needed */
+    border-radius: 23px 23px 23px 23px;
+  }
+  .heading {
+    color:#5FBDFF;
+    font-size: 16px; /* Adjust font size as needed */
+    margin: 0; /* Remove default margin */
+    padding: 0px;
+  }
+  .u{
+    color:#5FBDFF;
+  }
+  .he{
+    display: flex;
+    padding-top: 17px;
+    padding-left: 27px;
+  }
+  .yj{
+    margin-left: 298px;
+  }
+  .to{
+padding-bottom: 7px;
+  }
+  .border{
+    border-bottom: 2.1px solid;
+    border-color:#DDDDDD;
+    inline-size: 600px;
+    margin-left: 24px;
+    padding-top: 12px;  
 }
-@media only screen and (max-width:1920px){
-.two {
-  margin-left:183px;
-  font-family:sans-serif;
+.border-2{
+  border-bottom: 2.1px solid;
+  border-color:#DDDDDD;
+  inline-size: 600px;
+  margin-left: 24px;
+  padding-top: 13px;
 }
+.image-een{
+  width: 197px;
+  height: 113px;
+  border-radius: 11px 11px 11px 11px;
 }
-
-@media only  screen and (max-width:1920px){
-.date {
-  font-size: 17px;
-  color:#282A3A;
-  
-}
-}
-@media only screen and (max-width:1920px){
-.two > h1{
-  font-family: sans-serif;
-  font-size: 30px;
-  font-weight: 500;
-}
-}
-@media only screen and (max-width:1920px){
-.container{
-  margin-left:14%;
-  margin-right: 15%;
-}
-}
-@media only screen and (max-width:1920px){
-.whiteboard {
-  background-color: #fff; /* White background */
-
- align-items: center;
-  border-radius: 18px 18px 0 0; /* Rounded corners on top left and top right */
-  padding: 18px;
-}
-
-}
-@media only screen and (max-width:1920px){
-.flex-container {
+.flex-con{
   display: flex;
-  gap: 8px; /* Optional: Add space between elements */
-  
+  padding-top: 13px;
+  padding-left: 14px;
+  flex-direction: row;
 }
+.img-doot{
+  width: 3px;
+  height: 3px;
 }
-@media only screen and (max-width:1920px){
-.h2 {
-  font-family: sans-serif;
-  font-size:1.6rem ;
-  padding-top: 6px;
-  
+.cn-img{
+  width: 30px;
+  height: 30px;
+  background-color: white;
 }
-}
-@media only screen and (max-width:1920px){
-.blue-icon {
-  color: #5FBDFF;
-  font-size: 29px; /* Adjust icon size as needed */
-  padding-top: 6px;
-padding-bottom: 18px;
-}
-}
-@media only screen and (max-width:1920px){
-.web{
+.i-c{
+  padding-top: 9px;
   display: flex;
-  
 }
-
+.i-o{
+  padding-top: 9px;
+  display: flex;
 }
-@media only screen and (max-width:1920px){
-.image-container{
-display: block;
-padding-top: 12px;
-padding-left: 3px;
+.tt-img{
+  width: 20px;
+  height: 20px;
 }
+.fo-img{
+  width: 20px;
+  height: 20px;
 }
-@media only screen and (max-width:1920px){
-.img-cnn {
-  
+.ic-pa{
+  padding-left: 8px;
+}
+.jk{
+  font-family: Open, sans-serif;
+  display: flex;
+  padding-top: 2px;
+  gap:3px;
+}
+.image-ap{
+  width: 11px;
+  height: 10px;
+}
+.image-abc{
+  width: 13px;
+  height: 12px;
+}
+.image-tr{
+  width: 197px;
+  height: 113px;
+  border-radius: 11px 11px 11px 11px;
+}
+.cn-im{
+  width: 14px;
+  height: 15px;
+}
+.us-im{
+  width: 14px;
+  height: 15px;
+}
+.fo-im{
+  width: 14px;
+  height: 15px;
+}
+.flex-container{
+  font-family: Open, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+.hg{
+  font-family: Open, sans-serif;
+   display: flex;
+  padding-left: 14px;
   padding-top: 6px;
-  border-radius: none;
+  gap:4px;
 }
+.whh{
+  font-family: Open, sans-serif;
+  display: flex;
+  flex-direction: row;
+  padding-top: 12px;
+  padding-left: 18px;
 }
-@media only screen and (max-width:1920px){
-.bottom-image {
-  margin-top: 0px;
+.flk{
+  font-size: 9px;
+  font-family:"Fira Sans Extra Condensed", sans-serif;
+  padding-bottom: 2px;
+  font-weight: 550;
 }
+.flk-u{
+  font-size: 12px;
+  font-family:'Times New Roman', Times, serif;
+  padding-bottom: 2px;
+  font-weight: 550;
 }
-@media only screen and (max-width:1920px){
-.png{
-display: flex;
-background-color: transparent;
+.th{
+  font-family: Open, sans-serif;
+  font-size: 14px;
+  width:190px;
+  line-height: 1.4;
+  padding-top: 3px;
+  font-weight: 520;
 }
+.img-full{
+  width: 10px;
+  height: 10px;
 }
-@media only screen and (max-width:1920px){
-.enemy-container{
-  font-family: sans-serif;
- padding-top:12px;
-  font-size: 1.3rem;
-  font-weight: 500;
+.th-o{
+  font-family: Open, sans-serif;
+  font-size: 14px;
+  width:190px;
+  line-height: 1.4;
+  padding-top: 1px;
+  font-weight: 520;
+}
+.es{
+  font-family: Open, sans-serif;
+  font-size: 9px;
+  font-weight: 520;
+}
+.es-i{
+  font-family: Open, sans-serif;
+  font-size: 10px;
+  font-weight: 520;
+}
+.sp{
+  padding-top: 0px;
+}
+.ad{
+  font-size: 10px;
+  padding-top: 3px;
+  font-weight: 550;
+}
+.bd{
   word-spacing: 1px;
-  line-height:1.2;
+  padding-left: 14px;
+  padding-top: 6px;
+  width: 360px;
+  line-height: 1.2;
+  font-size: 12px;
+  font-weight: 520;
 }
+.ka{
+  font-size: 10px;
+  font-weight: 545;
+  word-spacing: 1px;
 }
-@media only screen and (max-width:1920px){
-.img-ap{
-  padding-top: 4px;
+.sp-1{
+  padding-top: 0.5px;
+  padding-left: 13px;
+  font-weight: 550;
 }
+.so{
+  font-family: Open, sans-serif;
+  font-size: 12px;
+  width:350px;
+  padding-top: 1px;
+  padding-left: 13px;
+  word-spacing: 1px;
+  font-weight: 520;
 }
-
-
-@media only screen and (max-width:1920px){ 
-.information{
-  padding-top: 7px;
-  font-size: 13px;
-}
-}
-
-@media only screen and (max-width:1920px){
- .biden-container{
+.ki{
   padding-top: 5px;
- }
-
+  padding-left: 13px;
+  font-size: 10px;
+  font-weight: 520;
 }
-
-@media only screen and (max-width:1920px){
- 
- .iche-container {
-  display: flex;
-  justify-content: flex-end; /* Align content to the right */
-   /* Vertically align items if needed */
-  
-}
-}
-@media only screen and (max-width:1920px){
-.left-content {
-  flex: 0; /* Allow left content to occupy remaining space */
-  margin-right: 0px; /* Adjust spacing as desired */
-}
-}
-@media only screen and (max-width:1920px){
-.pura{
-  display: flex; 
-}
-}
-@media only screen and (max-width:1920px){
-.picture-container{
-display: block;
-
-padding-top: 12px;
-}
- 
-}
-@media only screen and (max-width:1920px){
-.img-daily {
-  
-  padding-top: 6px;
-  border-radius: none;
-}
-}
-@media only screen and (max-width:1920px){
-.bottom-image {
-  margin-top: 0px;
-}
-}
-@media only screen and (max-width:1920px){
-.enemy-container{
-  font-family: sans-serif;
- padding-top:12px;
-  font-size: 1.3rem;
-  font-weight: 500;
+.sd{
+  font-family: Open, sans-serif;
+  font-size: 12px;
+  width:360px;
+  gap:30px;
+  padding-top: 2px;
+  padding-left: 13px;
   word-spacing: 1px;
-  line-height:1.2;
+  font-weight: 520;
 }
+.ko{
+  padding-top: 2.5px;
+  padding-left: 13px;
+  font-size: 10px;
+  font-weight: 520;
 }
-@media only screen and (max-width:1920px){
- .cash-container{
-  padding-top: .3rem;
- }
-} 
-@media only screen  and (max-width:1920px){
- .iche-container {
-  display: flex;
-  justify-content: flex-end;
-  /* Align content to the right */
-  align-items: center; /* Vertically align items if needed */  
+.fg{
+  font-family: Open, sans-serif;
+   display: flex;
+  padding-left: 14px;
+  padding-top: 8px;
+  gap:4px;
 }
-}
-@media only screen and (max-width:1920px){
-.left-content {
-  flex: 1; /* Allow left content to occupy remaining space */
-  margin-right: 0px; /* Adjust spacing as desired */
-}
-}
-
-
-
-
-
-
-
-
